@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "Richard Fox",
+    "label": "Programmer",
+    "website": "http://ahref.co.uk",
+    "summary": "",
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "rfox90",
+        "url": "https://github.com/rfox90"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ahref",
+        "url": "https://uk.linkedin.com/in/ahref"
+      },
+      {
+        "network": "Bitbucket",
+        "username": "richard_fox",
+        "url": "https://bitbucket.org/richard_fox/"
+      },
+      {
+        "network": "Github",
+        "username": "ProbablePrime",
+        "url": "https://github.com/ProbablePrime"
+      },
+      {
+        "network": "Tiwtter",
+        "username": "@ahref1",
+        "url": "https://twitter.com/ahref1"
+      },
+      {
+        "network": "Tiwtter",
+        "username": "@ProbablePrime",
+        "url": "https://twitter.com/ProbablePrime"
+      }
+    ],
+    "file": "base.json"
+  },
+  "work": [
+    {
+      "company": "Track Intelligence",
+      "position": "Manager, Systems Engineering Manager",
+      "website": "http://trackintel.com",
+      "startDate": "2014-01-01",
+      "endDate": "",
+      "summary": "Track Intel provides a premium SaaS Motorsports Management Platform to prestigious racing organizations around the world. Everything from Registration to Results is covered by the platform.",
+      "highlights": [
+        "2014,2015,2016 Isle of Man TT on site technical Support and Systems Manager",
+        "Lead Developer on several key projects within the company. "
+      ]
+    },
+    {
+      "company": "Phoebus Software",
+      "position": "Graduate Analyst Programmer",
+      "website": "http://www.phoebus.co.uk/",
+      "startDate": "2013-08-01",
+      "endDate": "2013-12-30",
+      "summary": "Helped in providing seamless software solutions for clients in the financial services sector.",
+      "highlights": [
+        "Helped to research and introduce Robot Framework based acceptance testing to the company.",
+        "Introduced Unit Testing to the in-house programming language."
+      ]
+    },
+    {
+      "company": "Track Intelligence",
+      "position": "Systems Engineer",
+      "website": "https://trackintel.com",
+      "startDate": "2011-05-01",
+      "endDate": "2012-09-01",
+      "summary": "Track Intel provides a premium SaaS Motorsports Management Platform to prestigious racing organizations around the world. Everything from Registration to Results is covered by the platform.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Staffordshire University, Stafford",
+      "area": "Computing Science",
+      "studyType": "Bachelor of Science 1st Class",
+      "startDate": "2009-09-01",
+      "endDate": "2013-07-01",
+      "courses": [
+        "Web Development",
+        "Database Development",
+        "Software Development"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Less",
+        "Backbone.js"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": [
+        "Node",
+        "Perl",
+        ""
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "PostgreSQL",
+        "MongoDB"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Live Streaming",
+      "keywords": [
+        "Broadcasting",
+        "Broadcast Development",
+        "Branding"
+      ]
+    },
+    {
+      "name": "Game Development",
+      "keywords": [
+        "Unity",
+        "Stencyl"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Chris Keane ( CEO Track Intelligence )",
+      "reference": "Richard is a fantastically technology oriented uber-geek. He loves jumping in at the deep end and wonders why those people are all wasting time down there at the shallow end.   Great communication skills, customer focused and an innovative problem solver, Richard is just amazing."
+    }
+  ]
+}

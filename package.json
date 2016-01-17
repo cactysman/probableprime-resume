@@ -1,0 +1,16 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "hackmyresume BUILD base.json TO out/resume.all -t node_modules/jsonresume-theme-short",
+    "build-private": "hackmyresume BUILD base.json private.json to out_full/resume.all -t node_modules/jsonresume-theme-short"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.1.8"
+  }
+}
