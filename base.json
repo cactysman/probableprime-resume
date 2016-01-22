@@ -91,14 +91,14 @@
   "publications": [],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Frontend Development",
       "level": "",
       "keywords": [
-        "HTML",
-        "CSS",
+        "HTML 5",
+        "CSS 3",
         "JavaScript",
         "Less",
-        "Backbone.js"
+        "Polymer"
       ]
     },
     {
@@ -107,7 +107,9 @@
       "keywords": [
         "Node",
         "Perl",
-        ""
+        "ES6",
+        "Electron",
+        "Phonegap"
       ]
     },
     {

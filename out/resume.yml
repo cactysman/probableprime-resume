@@ -74,21 +74,23 @@ awards: []
 publications: []
 skills:
   -
-    name: 'Web Development'
+    name: 'Frontend Development'
     level: ""
     keywords:
-      - HTML
-      - CSS
+      - 'HTML 5'
+      - 'CSS 3'
       - JavaScript
       - Less
-      - Backbone.js
+      - Polymer
   -
     name: 'Software Development'
     level: ""
     keywords:
       - Node
       - Perl
-      - ""
+      - ES6
+      - Electron
+      - Phonegap
   -
     name: Databases
     level: ""
