@@ -2,7 +2,6 @@
   "basics": {
     "name": "Richard Fox",
     "label": "Programmer",
-    "website": "http://ahref.co.uk",
     "summary": "",
     "profiles": [
       {
@@ -26,12 +25,12 @@
         "url": "https://github.com/ProbablePrime"
       },
       {
-        "network": "Tiwtter",
+        "network": "Twitter",
         "username": "@ahref1",
         "url": "https://twitter.com/ahref1"
       },
       {
-        "network": "Tiwtter",
+        "network": "Twitter",
         "username": "@ProbablePrime",
         "url": "https://twitter.com/ProbablePrime"
       }
@@ -126,23 +125,6 @@
     {
       "language": "English",
       "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Live Streaming",
-      "keywords": [
-        "Broadcasting",
-        "Broadcast Development",
-        "Branding"
-      ]
-    },
-    {
-      "name": "Game Development",
-      "keywords": [
-        "Unity",
-        "Stencyl"
-      ]
     }
   ],
   "references": [

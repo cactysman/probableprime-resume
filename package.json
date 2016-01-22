@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jsonresume-theme-elegant": "^1.1.8"
+    "jsonresume-theme-elegant": "^1.1.8",
+    "jsonresume-theme-markdown": "^1.0.2"
   }
 }
