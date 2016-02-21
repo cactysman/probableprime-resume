@@ -12,17 +12,9 @@ basics:
       username: ahref
       url: 'https://uk.linkedin.com/in/ahref'
     -
-      network: Bitbucket
-      username: richard_fox
-      url: 'https://bitbucket.org/richard_fox/'
-    -
       network: Github
       username: ProbablePrime
       url: 'https://github.com/ProbablePrime'
-    -
-      network: Twitter
-      username: '@ahref1'
-      url: 'https://twitter.com/ahref1'
     -
       network: Twitter
       username: '@ProbablePrime'
@@ -38,7 +30,8 @@ work:
     summary: 'Track Intel provides a premium SaaS Motorsports Management Platform to prestigious racing organizations around the world. Everything from Registration to Results is covered by the platform.'
     highlights:
       - '2014,2015,2016 Isle of Man TT on site technical Support and Systems Manager'
-      - 'Lead Developer on several key projects within the company. '
+      - 'Developed a live race simulator for Isle of Man staff to predict rider patterns to help with course management'
+      - 'Developed streamlined Technical Inspection Cordova app for a fleet of android tablets'
   -
     company: 'Phoebus Software'
     position: 'Graduate Analyst Programmer'
@@ -47,8 +40,8 @@ work:
     endDate: '2013-12-30'
     summary: 'Helped in providing seamless software solutions for clients in the financial services sector.'
     highlights:
-      - 'Helped to research and introduce Robot Framework based acceptance testing to the company.'
-      - 'Introduced Unit Testing to the in-house programming language.'
+      - 'Helped introduce Robot Framework based acceptance testing to the company.'
+      - 'Introduced Unit Testing to the in-house programming language'
   -
     company: 'Track Intelligence'
     position: 'Systems Engineer'
@@ -56,7 +49,9 @@ work:
     startDate: '2011-05-01'
     endDate: '2012-09-01'
     summary: 'Track Intel provides a premium SaaS Motorsports Management Platform to prestigious racing organizations around the world. Everything from Registration to Results is covered by the platform.'
-    highlights: []
+    highlights:
+      - 'Developed a live Facebook integration to provide realtime status updates of a rider''s performance in a race.'
+      - 'Developed a custom reporting system to provide easily configureable results reports'
 volunteer: []
 education:
   -
@@ -73,25 +68,25 @@ awards: []
 publications: []
 skills:
   -
-    name: 'Frontend Development'
+    name: 'Web Development'
     level: ""
     keywords:
       - 'HTML 5'
       - 'CSS 3'
       - JavaScript
-      - Less
+      - 'Less / Sass'
       - Polymer
+      - Backbone
   -
     name: 'Software Development'
     level: ""
     keywords:
-      - Node
+      - 'Node / ES6'
       - Perl
-      - ES6
       - Electron
       - Phonegap
   -
-    name: Databases
+    name: 'Database Development'
     level: ""
     keywords:
       - PostgreSQL
