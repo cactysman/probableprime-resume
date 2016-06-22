@@ -5,11 +5,6 @@
     "summary": "",
     "profiles": [
       {
-        "network": "Github",
-        "username": "rfox90",
-        "url": "https://github.com/rfox90"
-      },
-      {
         "network": "LinkedIn",
         "username": "ahref",
         "url": "https://uk.linkedin.com/in/ahref"
@@ -28,6 +23,15 @@
   },
   "work": [
     {
+      "company": "Beam Interactive, Inc.",
+      "position": "Interactive Project Manager, Developer Relations Manager",
+      "website": "https://beam.pro",
+      "startDate": "2016-05-02",
+      "endDate": "",
+      "summary": "Stop watching, start playing. We're connecting gaming communities through truly interactive live streams.",
+      "highlights": []
+    },
+    {
       "company": "Track Intelligence",
       "position": "Manager, Systems Engineering Manager",
       "website": "http://trackintel.com",
@@ -35,7 +39,7 @@
       "endDate": "",
       "summary": "Track Intel provides a premium SaaS Motorsports Management Platform to prestigious racing organizations around the world. Everything from Registration to Results is covered by the platform.",
       "highlights": [
-        "2014,2015,2016 Isle of Man TT on site technical Support and Systems Manager",
+        "2014,2015 Isle of Man TT on site technical Support and Systems Manager",
         "Developed a live race simulator for Isle of Man staff to predict rider patterns to help with course management",
         "Developed streamlined Technical Inspection Cordova app for a fleet of android tablets"
       ]
