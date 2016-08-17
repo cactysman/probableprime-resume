@@ -2,6 +2,7 @@
   "basics": {
     "name": "Richard Fox",
     "label": "Programmer",
+    "email": "business@ahref.co.uk",
     "summary": "",
     "profiles": [
       {
@@ -24,7 +25,7 @@
   "work": [
     {
       "company": "Beam Interactive, Inc.",
-      "position": "Interactive Project Manager, Developer Relations Manager",
+      "position": "Interactive Program Manager",
       "website": "https://beam.pro",
       "startDate": "2016-05-02",
       "endDate": "",
@@ -36,7 +37,7 @@
       "position": "Manager, Systems Engineering Manager",
       "website": "http://trackintel.com",
       "startDate": "2014-01-01",
-      "endDate": "",
+      "endDate": "2016-05-29",
       "summary": "Track Intel provides a premium SaaS Motorsports Management Platform to prestigious racing organizations around the world. Everything from Registration to Results is covered by the platform.",
       "highlights": [
         "2014,2015 Isle of Man TT on site technical Support and Systems Manager",
@@ -122,12 +123,6 @@
     {
       "language": "English",
       "fluency": "Native speaker"
-    }
-  ],
-  "references": [
-    {
-      "name": "Chris Keane ( CEO Track Intelligence )",
-      "reference": "Richard is a fantastically technology oriented uber-geek. He loves jumping in at the deep end and wonders why those people are all wasting time down there at the shallow end.   Great communication skills, customer focused and an innovative problem solver, Richard is just amazing."
     }
   ]
 }
