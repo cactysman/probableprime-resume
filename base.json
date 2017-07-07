@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Richard Fox",
-    "email": "business@ahref.co.uk",
+    "email": "info@probableprime.co.uk",
     "summary": "",
     "profiles": [
       {
@@ -23,11 +23,20 @@
   },
   "work": [
     {
+      "company": "Microsoft",
+      "position": "Program Manager 2",
+      "website": "https://mixer.com",
+      "startDate": "2016-11-01",
+      "endDate": "",
+      "summary": "Richard joined Beam in May 2016 to help build their next generation interactivity platform. \n\n Over the summer he grew to manage Interactivity on Beam before Beam was acquired by Microsoft in August 2016. In may 2017 Beam was re branded to Mixer. \n\nNow a Program Manager within Xbox at Microsoft, Richard manages the Developer Ecosystem and Platform. He lives and breathes Mixer's public API and developer platform.",
+      "highlights": []
+    },
+    {
       "company": "Beam Interactive, Inc.",
       "position": "Interactive Program Manager",
       "website": "https://beam.pro",
       "startDate": "2016-05-02",
-      "endDate": "",
+      "endDate": "2016-11-01",
       "summary": "Stop watching, start playing. We're connecting gaming communities through truly interactive live streams.",
       "highlights": []
     },
@@ -91,20 +100,17 @@
       "name": "Web Development",
       "level": "",
       "keywords": [
-        "HTML 5",
-        "CSS 3",
         "JavaScript",
         "Less / Sass",
-        "Polymer",
-        "Backbone"
+        "Angular 2",
       ]
     },
     {
       "name": "Software Development",
       "level": "",
       "keywords": [
-        "Node / ES6",
-        "Perl",
+        "Node.js",
+        "Typescript",
         "Electron",
         "Phonegap"
       ]
